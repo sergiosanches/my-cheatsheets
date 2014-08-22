@@ -15,4 +15,4 @@ in case of conflicts:
   git rebase --continue		proceed
 
 
-git stash show -p stash@{0}   diff against stashed entry
+git stash show -p stash@{0}     diff against stashed entry
