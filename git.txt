@@ -13,3 +13,6 @@ in case of conflicts:
   fix conflicts manually	text editor to the rescue
   git add <fixed files>		add the resolution back on track
   git rebase --continue		proceed
+
+
+git stash show -p stash@{0}   diff against stashed entry
