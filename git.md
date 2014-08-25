@@ -28,7 +28,7 @@ git branch -vv				# show local branches, sha1, ref, latest commit msg
 #### rebase
 ```bash
 git rebase <base>			# rebase the current branch onto <base>
-in case of conflicts:
+# in case of conflicts:
   fix conflicts manually	# text editor to the rescue
   git add <fixed files>		# add the resolution back on track
   git rebase --continue		# proceed
