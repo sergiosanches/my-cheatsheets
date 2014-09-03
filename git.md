@@ -15,6 +15,7 @@ git log --graph --oneline --decorate --date-order --color	# pretty graphed log h
 ```bash
 git diff HEAD				# show difference between working directory and last commit
 git diff HEAD^(^^...)		# compare the version before (^) the last commit and the last commit, each '^' symbol means one more version backwards
+git whatchanged				# shows commit logs and diff output each commit introduces [sic]
 ```
 
 
