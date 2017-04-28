@@ -1,4 +1,4 @@
-learning new techs by creating cheat sheets about them
+learning new techs by creating cheat sheets about them.
 
 
 ##### PHP links
